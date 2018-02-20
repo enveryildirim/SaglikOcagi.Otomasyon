@@ -1,0 +1,16 @@
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\bin\Debug\SaglikOcagiOtomasyonu.exe.config
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\bin\Debug\SaglikOcagiOtomasyonu.exe
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\bin\Debug\SaglikOcagiOtomasyonu.pdb
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.csprojResolveAssemblyReference.cache
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.Login.resources
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.Properties.Resources.resources
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.csproj.GenerateResource.Cache
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.exe
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.pdb
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.AnaForm.resources
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.GUI.HastaIslemleri.resources
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.KullaniciIslemleri.resources
+D:\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.PoliklinikIslemleri.resources
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\bin\Debug\SaglikOcagiOtomasyonu.exe.config
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\SaglikOcagiOtomasyonu\SaglikOcagiOtomasyonu\obj\Debug\SaglikOcagiOtomasyonu.pdb
